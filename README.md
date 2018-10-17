@@ -6,7 +6,9 @@ This consists of two stage for sender and one stage for the user.
 
 For sender
 
-Step 1 : Add your portal in the skype bot and get the permission key
+Step 1 : Add your portal in the skype bot and get the permission key 
+If you do not want to use REST API for this you can also use buyit command from the skype account and it will ask few questions 
+
 Step 2 : Call REST API and send your message
 
 For the user their are two step also
