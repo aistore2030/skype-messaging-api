@@ -11,6 +11,26 @@ If you do not want to use REST API for this you can also use buyit command from 
 
 Step 2 : Call REST API and send your message
 
+end points 
+/api/CustomWebApi
+
+Parameters 
+1 notificationMessage 
+2 token
+
+Example : http://localhost:3978/api/CustomWebApi?notificationMessage=youmessage&token=yourtoken this url will hit and send your message to roboM
+
+
 For the user their are two step also
 
 Step 1 : Subscribe a portal
+
+From the skype user need to type subscribe domainname only 
+
+
+
+
+
+
+
+
